@@ -27,9 +27,9 @@ A modern e-commerce product listing application built with Next.js, TypeScript, 
 1. Clone the repository:
 
 ```bash 
-git clone https://github.com/yourusername/Mart-shophub.git
+git clone https://github.com/Willochs316/mart.git
 
-cd Mart-shophub
+cd mart
 ```
 
 2. Install dependencies
